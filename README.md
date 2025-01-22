@@ -17,6 +17,13 @@
    - **Consideraciones**:
         - Cada problema se resuelve en un archivo `.mzn` independiente.
         - **Solver Utilizado**: Gecode.
+        - 
+3. **Práctica 3: Diseño de dominios de planificación con PDDL**
+   - **Descripción**: Diseño e implementación de un dominio de planificación clásico siguiendo los estándares de PDDL.
+   - **Objetivo**: Generar un conjunto de ficheros PDDL para modelar el dominio y los problemas correspondientes. Estos serán ejecutados en el planificador **Metric-FF** para obtener planes válidos que resuelvan los problemas planteados.
+   - **Herramientas**:
+     - **PDDL**: Lenguaje estándar para modelar dominios de planificación.
+     - **Metric-FF**: Planificador utilizado para validar y ejecutar los modelos.
 
 
 
